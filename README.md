@@ -1,6 +1,6 @@
 # Basic Catalog website
 
-A small static catalog-type website built using HTML, CSS, Javascript and XML as a part of college project.
+A small catalog-type web project built using HTML, CSS, Javascript and XML as a part of college project.
 This project shows basic web development concept and structured data rendering.
 
 ## Features
