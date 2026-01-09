@@ -4,7 +4,7 @@ A small static catalog-type website built using HTML, CSS, Javascript and XML as
 This project shows basic web development concept and structured data rendering.
 
 ## Features
-1. Basic interactivity using javascript
+1. User login/signup (local storage)
 2. Responsive, clean and simple layout using CSS
 3. Catalog page rendered using XML data
 
