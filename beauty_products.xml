@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product category="makeup">
+        <name>Foundation</name>
+        <price>12.99</price>
+        <image>images/foundation.jpg</image>
+    </product>
+    <product category="makeup">
+        <name>Concealer</name>
+        <price>9.50</price>
+        <image>images/concealer.jpg</image>
+    </product>
+    <product category="makeup">
+        <name>Mascara</name>
+        <price>7.99</price>
+        <image>images/mascara.jpg</image>
+    </product>
+    <product category="skincare">
+        <name>Moisturizer</name>
+        <price>10.99</price>
+        <image>images/moisturizer.jpg</image>
+    </product>
+    <product category="skincare">
+        <name>Toner</name>
+        <price>6.99</price>
+        <image>images/toner.jpg</image>
+    </product>
+    <product category="skincare">
+        <name>Face Mask</name>
+        <price>8.49</price>
+        <image>images/facemask.webp</image>
+    </product>
+</products>

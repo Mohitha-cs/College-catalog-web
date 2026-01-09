@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Profile - Beauty & Personal Care</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<nav class="navbar">
+    <div class="logo">Beauty & Personal Care</div>
+    <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li class="dropdown">
+            <a href="#" class="dropbtn">Products </a>
+            <div class="dropdown-content">
+                <a href="#" onclick="showCategory('makeup')">Makeup</a>
+                <a href="#" onclick="showCategory('skincare')">Skincare</a>
+            </div>
+        </li>
+        <li><a href="login.html" id="signin-link">Sign In</a></li>
+    </ul>
+</nav>
+</header>
+
+<main class="profile-main">
+    <h1>Welcome, <span id="profile-name"></span>!</h1>
+    <p>Email: user@example.com</p>
+    <p>Member since: 2025</p>
+</main>
+
+<script src="script.js"></script>
+</body>
+</html>
