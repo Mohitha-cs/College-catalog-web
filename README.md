@@ -4,9 +4,9 @@ A small catalog-type web project built using HTML, CSS, Javascript and XML as a 
 This project shows basic web development concept and structured data rendering.
 
 ## Features
-1. User login/signup (local storage)
+1. User authentication using browser local storage
 2. Responsive, clean and simple layout using CSS
-3. Catalog page rendered using XML data
+3. Catalog page rendered using XML data (basic DOM manipulation)
 
 ## Tech stack
 1. HTML
